@@ -1,6 +1,6 @@
 {
-	Name: "New Laws!",
-	Description: "This item will add new Laws.",
+	Name: "AOH3 Cheeto Mod",
+	Description: "This is My First Cheeto Mod... So Enjoy to use!!!",
 	
 	Tags: [ "Game", "Laws" ],
 	
